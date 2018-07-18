@@ -3,7 +3,7 @@ sentence2 = "Hi again, just making sure it's reversed!"
 
 def reverse_each_word(string)
   string = sentence1
-  array = sentence1.split("")
+  sentence1 = sentence1.split("")
   array << str.split(/,/)
   
   array.each do |reverse|
